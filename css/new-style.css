@@ -146,6 +146,12 @@ body {
 
 
 @media only screen and (max-width: 600px) {
+    .home .foliox_tm_portfolio .portfolio_list ul li {
+        width: 100%;
+    }
+    .foliox_tm_portfolio .portfolio_list ul li {
+        width: 32%;
+    }
     .mfp-iframe-holder .mfp-content {
         height: 100%;
     }
